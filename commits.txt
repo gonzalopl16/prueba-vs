@@ -1,0 +1,98 @@
+commit 6eb49a9079872fc543891d8b4817c14005fb0556
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sun Aug 28 16:03:59 2022 -0500
+
+    Agregando 2 parrafos
+
+commit 91a5aaed5f11efeee8dc21abd9f15e8424bca083
+Merge: 259d715 735849e
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sun Aug 28 16:01:37 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 259d7157c774cfe532fffce01284c38ffd744579
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sun Aug 28 15:40:02 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 735849e783c776b1e0225df2a744c9cf43029f01
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sun Aug 28 15:40:02 2022 -0500
+
+    Agregando estaciones del año
+
+commit 4025614d90c0ac2facb870bdf905f4f9bbd9ca64
+Merge: 61cc9f6 4c62e6b
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sat Aug 27 17:59:42 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 4c62e6b1d53e6223f9eed3f85220d1bcbfab271b
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sat Aug 27 17:54:09 2022 -0500
+
+    Agregando index.js a index.html
+
+commit 61cc9f63adfefb129a4dd10c429fbcfc8ec9af0d
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sat Aug 27 17:51:40 2022 -0500
+
+    Agregando style.css a index.html
+
+commit fb2acbb4c3ef356d0d38dde4086ee214533cc7f0
+Merge: 4788f5d c7d1b39
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sat Aug 27 17:41:48 2022 -0500
+
+    Merge branch 'js'
+
+commit c7d1b3946e66c3596f0f175da46d899071a53962
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sat Aug 27 17:36:44 2022 -0500
+
+    Creando index.js
+
+commit 4788f5dc3d69d31071abb34409b276acdc7d5073
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sat Aug 27 17:32:05 2022 -0500
+
+    Creando style
+
+commit 354b28ed39b535d54e699eba3a24f997eaf87388
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sat Aug 27 17:28:01 2022 -0500
+
+    Creando index.html
+
+commit 53b1d6523c81326d6656c0d513404f90564fed68
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Sat Aug 27 17:08:28 2022 -0500
+
+    ignorando archivos .exe
+
+commit 2adc1563f61ae4cc8bb148e6c6c2e53098332825
+Author: gonzalopl16 <96492900+gonzalopl16@users.noreply.github.com>
+Date:   Thu Aug 25 23:07:35 2022 -0500
+
+    Creando Licencia del Repositorio
+
+commit f1fa6c47953710242573cb87f92937e9cf8b86c1
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Thu Aug 25 23:00:28 2022 -0500
+
+    Agregando mas contenido al README
+
+commit bd8b46f39a5ebd88b67a27bbfd08a780c64850cc
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Wed Aug 24 23:50:37 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit c6139adbf8b01e1df663c1c6524dc99c1f079850
+Author: Gonzalo <renovado16@gmail.com>
+Date:   Wed Aug 24 23:44:23 2022 -0500
+
+    Primer commit

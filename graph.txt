@@ -1,0 +1,23 @@
+* 6eb49a9 Agregando 2 parrafos
+*   91a5aae Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * 735849e Agregando estaciones del año
+* | 259d715 Agregando estaciones del año con fecha de inicio
+|/  
+*   4025614 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 4c62e6b Agregando index.js a index.html
+* | 61cc9f6 Agregando style.css a index.html
+* |   fb2acbb Merge branch 'js'
+|\ \  
+| * | c7d1b39 Creando index.js
+* | | 4788f5d Creando style
+| |/  
+|/|   
+* | 354b28e Creando index.html
+|/  
+* 53b1d65 ignorando archivos .exe
+* 2adc156 Creando Licencia del Repositorio
+* f1fa6c4 Agregando mas contenido al README
+* bd8b46f Agregando contenido inicial al README
+* c6139ad Primer commit
